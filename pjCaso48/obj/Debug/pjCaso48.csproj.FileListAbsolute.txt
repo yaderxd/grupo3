@@ -1,0 +1,10 @@
+C:\Users\JADPA_11\source\repos\pjCaso48\pjCaso48\bin\Debug\pjCaso48.exe.config
+C:\Users\JADPA_11\source\repos\pjCaso48\pjCaso48\bin\Debug\pjCaso48.exe
+C:\Users\JADPA_11\source\repos\pjCaso48\pjCaso48\bin\Debug\pjCaso48.pdb
+C:\Users\JADPA_11\source\repos\pjCaso48\pjCaso48\obj\Debug\pjCaso48.csprojAssemblyReference.cache
+C:\Users\JADPA_11\source\repos\pjCaso48\pjCaso48\obj\Debug\pjCaso48.fmrEstacionamiento.resources
+C:\Users\JADPA_11\source\repos\pjCaso48\pjCaso48\obj\Debug\pjCaso48.Properties.Resources.resources
+C:\Users\JADPA_11\source\repos\pjCaso48\pjCaso48\obj\Debug\pjCaso48.csproj.GenerateResource.cache
+C:\Users\JADPA_11\source\repos\pjCaso48\pjCaso48\obj\Debug\pjCaso48.csproj.CoreCompileInputs.cache
+C:\Users\JADPA_11\source\repos\pjCaso48\pjCaso48\obj\Debug\pjCaso48.exe
+C:\Users\JADPA_11\source\repos\pjCaso48\pjCaso48\obj\Debug\pjCaso48.pdb
